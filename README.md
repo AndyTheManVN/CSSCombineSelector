@@ -1,5 +1,7 @@
 # CSSCombineSelector
-CSS selector multiple element and class
+CSS selector multiple element and class<br>
+
+Tip: nằm cùng element không spacebar, khác element có spacebar<br>
 
 DIỄN GIẢI	HTML	CSS<br>
 HTML elmenent: tên class có khoảng trắng.<br>	
