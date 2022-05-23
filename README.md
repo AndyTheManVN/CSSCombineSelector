@@ -12,9 +12,11 @@ Vd: (img class = "bacon circular" src="...")
 		.bacon.cirular { }
 
 Class nằm trong cùng element: khai báo css không có khoảng trắng giữa 2 selector	
-  <div class="blue">	div.blue {font-size:10px;}
+(div class="blue")	
+div.blue {font-size:10px;}
+
 Chọn 2 selector khác nhau: trong css khai báo có khoảng trắng giữa các selector	
   (div class="dropdown-menu")
 	 .....
-	      <a href=""> 
-  Khai báo css: 	.dropdown-menu a {  }
+	      (a href="") 
+Khai báo css: 	.dropdown-menu a {  }
